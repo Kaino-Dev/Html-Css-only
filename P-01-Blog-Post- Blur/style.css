@@ -1,0 +1,55 @@
+
+/* Centering container div */
+body{
+    position: fixed;
+    inset: 0;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    background-color: #707777;
+}
+
+/* Container and Card Styling */
+.container{
+    background-color: #070F2B;
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 2rem;
+    border-radius: 25px;
+}
+.card{
+    width: max-content;
+    background-color: #1B1A55;
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 15px;
+    transition: 150ms ease-in-out;
+}
+.card .top img{
+    width: 100px;
+}
+
+/* Typography */
+.card{
+    text-align: center;
+    color: #F8F4E1;
+}
+.card .bottom h1{
+    font-size: 1.5rem;
+}
+.card .bottom a{
+    text-decoration: none;
+    color: #F8F4E1;  
+}
+
+/* Hover Effect */
+.card:hover{
+    transform: translateY(-10px);
+    box-shadow: #F8F4E1 5px 5px 10px;
+}
+.container:has(.card:hover) .card:not(:hover) {
+    filter: blur(4px);
+}

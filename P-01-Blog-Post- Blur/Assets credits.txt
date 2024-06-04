@@ -1,0 +1,6 @@
+Html.png - <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
+CSS.png - <a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by iconsimple - Flaticon</a>
+JS.png - <a href="https://www.flaticon.com/free-icons/js-file" title="js file icons">Js file icons created by Freepik - Flaticon</a>
+Bootstrap.png - <a href="https://www.flaticon.com/free-icons/bootstrap" title="bootstrap icons">Bootstrap icons created by Freepik - Flaticon</a>
+Nodejs.png - <a href="https://www.flaticon.com/free-icons/node-js" title="node js icons">Node js icons created by Freepik - Flaticon</a>
+React.png - <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Kiranshastry - Flaticon</a>
